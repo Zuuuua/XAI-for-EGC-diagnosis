@@ -17,3 +17,5 @@ Proceed to the 'feature extraction deep learning' folder. Run the 'data_preproce
 In the 'multi-feature-fitting' folder, input all the features extracted from the previous steps into the 'model_training.ipynb' notebook. This notebook trains machine learning models to diagnose gastric neoplasms. The best model with the highest accuracy will be saved and can be further evaluated using 'model_testing.ipynb'.
 
 By following these steps, you will be able to utilize the explainable AI method for diagnosing early gastric neoplasms under endoscopy.
+
+I acknowledge the help from Hao Li and Leanne Wu for building this method and coding.
